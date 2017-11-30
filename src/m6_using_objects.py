@@ -5,8 +5,8 @@ This module lets you practice  ** using objects **, including:
   -- accessing their DATA via INSTANCE VARIABLES
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Sreekar Manyam.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
@@ -33,6 +33,7 @@ def two_circles():
     # Put a statement in   main   to test this function
     #    (by calling this function).
     # ------------------------------------------------------------------
+
 
 
 def circle_and_rectangle():
